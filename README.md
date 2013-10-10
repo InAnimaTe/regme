@@ -22,7 +22,7 @@ management is necessary to ensure your terminals always have an updated and aliv
 This is awesome because it enables us to leave scripts running that utilize authentication 
 whilst not logged into the server!
 
-You an probably read through some of this and get good grasp of whats going on here.
+You can probably read through some of regme and get a pretty good grasp of whats going on here.
 
 ##### What you need
 
